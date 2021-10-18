@@ -1,0 +1,7 @@
+rich
+PyQt5
+pyautogui
+pywin32
+keyboard
+Pillow
+requests

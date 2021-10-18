@@ -46,18 +46,18 @@ if (isset($_POST['submit'])) {
 	<title>Report</title>
 	<meta charset="utf-8">
 	<meta http-equiv="Content-Language" content="fr-FR" />
-    <meta name="author" content="jesuisroot123">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="viewport" content="width=device-width, minimum-scale=0.25"/>
-    <meta name="viewport" content="width=device-width, maximum-scale=5.0"/>
-    <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi"/>
-    <meta name="description" content="Administration de KeyCroc">
-    <link rel="stylesheet" type="text/css" href="stylesheets_report/style.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets_report/formulaire_style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    	<meta name="author" content="jesuisroot123">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta name="viewport" content="width=device-width, minimum-scale=0.25"/>
+    	<meta name="viewport" content="width=device-width, maximum-scale=5.0"/>
+    	<meta name="viewport" content="width=device-width, target-densitydpi=device-dpi"/>
+    	<meta name="description" content="Administration de KeyCroc">
+    	<link rel="stylesheet" type="text/css" href="stylesheets_report/style.css">
+    	<link rel="stylesheet" type="text/css" href="stylesheets_report/formulaire_style.css">
+    	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Yaldevi:wght@200&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
 <body>
 	<center>

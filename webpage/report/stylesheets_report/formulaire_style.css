@@ -1,0 +1,66 @@
+.container {
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 10%;
+	background-color: rgba(255, 255, 255, 0.7);
+	box-shadow: 0 0 20px 0 rgb(0, 0, 0 / 20%), 0 5px 5px 0 rgb(0, 0, 0 / 24%);
+	border-radius: 10px;
+}
+
+h1 {
+	color: black;
+	padding-top: 30px;
+}
+
+form {
+	width: 100%;
+	padding: 25px;
+}
+
+input::placeholder {
+	color: black;
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 12px 15px;
+	margin: 22px 0;
+	display: inline-block;
+	border-right: none;
+	border-top: none;
+	border-left: none;
+	border-bottom: 1px solid black;
+	transition: 0.6s;
+	background: transparent;
+}
+
+input[type=text]:focus {
+	outline: none;
+	border: 1.5px solid #FF5656;
+	border-radius: 45px;
+}
+
+.btn-grad {
+	background-image: linear-gradient(to right, #FF5656 0%, #D66AFF  51%, #FF5656  100%);
+}
+
+.btn-grad {
+	margin: 10px;
+	padding: 15px 45px;
+	text-align: center;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: black;
+	border-radius: 45px;
+	display: block;
+	border: none;
+	width: 300px;
+	box-shadow: 0px 5px 20px #FF5656;
+}
+
+.btn-grad:hover {
+	background-position: right center;
+	color: white;
+	text-decoration: none;
+	box-shadow: 0px 10px 40px #FF5656;
+}

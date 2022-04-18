@@ -42,8 +42,3 @@ You need to enable "Allow less secure applications" with your account. Else the 
 
 
 Have a good pentest.
-
-
-
-
-Instagram: monsieur_dz_28
